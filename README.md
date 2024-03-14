@@ -1,7 +1,7 @@
 # Welcome to Multi-Threading Web App that I've builded using Node.js
 
 ## Project Overview
-                                                          Welcome ...  to my Multi-Threading Web App! 
+Welcome ...  to my Multi-Threading Web App! 
   This project is designed to show the power of multi-threading in Node.js applications, showcasing both non-blocking and blocking operations in a user-friendly manner.
 
 ## What Does It Do?
@@ -60,5 +60,4 @@ This project is licensed under the MIT License. For more details, please refer t
 ## Contact Me
 
 If you have any questions or need assistance, don't hesitate to reach out to me. You can contact me  at princemy65@gmail.com.
-
-                                    Thank you for choosing my Multi-Threading project! I hope you find it helpful and informative.
+Thank you for choosing my Multi-Threading project! I hope you find it helpful and informative.
